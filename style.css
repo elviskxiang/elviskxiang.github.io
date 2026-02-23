@@ -244,8 +244,7 @@ h2 {
 /* Publication details (thumbnail media, title, and description). */
 
 .thumbnail {
-/*  width: 21%;*/
-  width: 18%;
+  width: 30%;
   float: left;
   margin-right: 2%;
 }
@@ -274,7 +273,7 @@ h3 {
 }
 
 h3 a {
-  color: #e4e4e7;
+  color: #111111;
 }
 
 h3 a:hover {
@@ -292,7 +291,7 @@ h3 a:hover {
 }
 
 .project-description {
-  width: 80%;
+  width: 68%;
   float: left;
 }
 
